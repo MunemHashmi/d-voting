@@ -55,8 +55,12 @@ To install dVoting, follow these steps:
 
 8. Ensure your Ganache blockchain is running, and that your React app is connected to the blockchain.
 
-9. In the terminal, navigate to the dVoting directory. Launch the dVoting application by running the following command in the terminal:
+9. In the terminal, navigate to the dVoting directory. Install the dependencies by running the following command in the terminal:
+
+```npm install``` 
+
+10. Launch the dVoting application by running the following command in the terminal:
 
 ```$ npm start```
 
-10. Navigate to http://localhost:3000 in your browser.
+11. Navigate to http://localhost:3000 in your browser.
