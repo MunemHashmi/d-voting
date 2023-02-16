@@ -1,4 +1,36 @@
 
+# dVoting - a blockchain based voting application
+
+dVoting is a blockchain-based voting platform developed using Ganache, Truffle, ReactJS, TailwindCss, web3.js, and Solidity. dVoting allows users to register, cast votes and view results securely and trustfully.
+
+
+## Features
+
+dVoting incorporates the following features: 
+* Trust - Blockchain technology allows for secure transactions, with all data stored on the blockchain itself.
+* Transparency - All transactions on the blockchain are transparent and visible.
+* Reliability - A vote cast on the dVoting platform can be tracked and audited.
+
+
+## Benefits
+
+dVoting provides several benefits, such as:
+* Increased accuracy - Electronic voting reduces chances of human errors.
+* Increased turnout - Easier and more convenient voting process.
+* Cost-effectiveness - Lower cost of conducting a vote, as there is no need to print or distribute ballot papers or count the votes manually.
+
+
+## Technology
+
+dVoting is powered by the following technologies:
+* Ganache – private Ethereum blockchain
+* Truffle – smart contract development framework
+* ReactJS – Web application framework
+* TailwindCSS – styling library
+* web3.js – JavaScript library for interacting with the blockchain 
+* Solidity – programing language for writing smart contracts
+
+
 ## Installation
 
 To install dVoting, follow these steps:
