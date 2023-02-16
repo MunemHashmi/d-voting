@@ -57,7 +57,7 @@ To install dVoting, follow these steps:
 
 9. In the terminal, navigate to the dVoting directory. Install the dependencies by running the following command in the terminal:
 
-```npm install``` 
+```$ npm install``` 
 
 10. Launch the dVoting application by running the following command in the terminal:
 
