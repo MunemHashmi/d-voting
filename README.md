@@ -53,7 +53,7 @@ To install dVoting, follow these steps:
 
 7. Paste the ABI in the `config.js` file located in the `src` directory of dVoting.
 
-8. Ensure your Ganache blockchain is running, and that your React app is connected to the blockchain.
+8. Ensure your Ganache blockchain is running, and that your React app is connected to the blockchain
 
 9. In the terminal, navigate to the dVoting directory. Install the dependencies by running the following command in the terminal:
 
