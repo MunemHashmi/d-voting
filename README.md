@@ -6,7 +6,7 @@ dVoting is a blockchain-based voting platform developed using Ganache, Truffle, 
 
 ## Features
 
-dVoting incorporates the following features: 
+dVoting incorporates the following features
 * Trust - Blockchain technology allows for secure transactions, with all data stored on the blockchain itself.
 * Transparency - All transactions on the blockchain are transparent and visible.
 * Reliability - A vote cast on the dVoting platform can be tracked and audited.
